@@ -2,4 +2,4 @@ test-git
 ========
 Hello
 
-commit from Thilaga Target
+commit from Thilaga Targets
